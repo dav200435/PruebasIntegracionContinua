@@ -22,8 +22,6 @@ public class CalculadoraTest {
         // 4. Llamar al método y verificar el resultado
         int resultado = calculadora.calcularSuma(5, 3);
         assertEquals(10, resultado);
-        
-        assertEquals(5, 6);
  
         // 5. Verificar que el método fue llamado correctamente
         verify(servicioMock).suma(5, 3);

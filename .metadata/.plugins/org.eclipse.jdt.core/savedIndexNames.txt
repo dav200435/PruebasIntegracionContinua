@@ -8,7 +8,6 @@ INDEX VERSION 1.134+C:\PruebasIntegracionContinua\.metadata\.plugins\org.eclipse
 1865797976.index
 1331425943.index
 3709799040.index
-1195154471.index
 1610795213.index
 4161324240.index
 3879313830.index

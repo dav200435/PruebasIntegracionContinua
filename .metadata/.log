@@ -2293,3 +2293,9 @@ java.lang.ClassCastException: class org.eclipse.jdt.internal.core.JavaNature can
 
 !ENTRY org.eclipse.ui 2 2 2025-02-07 20:09:30.817
 !MESSAGE Invalid preference category path: org.jboss.tools.vpe.editor (bundle: org.jboss.tools.jst.web.ui, page: org.jboss.tools.jsf.ui.editor.pref.contentassist)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-07 20:12:03.989
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-07 20:12:04.004
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
